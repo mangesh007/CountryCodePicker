@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E2ABAFC23D578C57515E94046A14E42FE9BF366D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F12B34A0A0D2304A842CB3488531FC54D246106" : 0,
+    "E2ABAFC23D578C57515E94046A14E42FE9BF366D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "160A9249-755D-4431-A5E0-52069A4E7A8F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F12B34A0A0D2304A842CB3488531FC54D246106" : "CountryCodePicker\/CountryCodePicker\/",
+    "E2ABAFC23D578C57515E94046A14E42FE9BF366D" : "CountryCodePicker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CountryCodePicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CountryCodePicker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mangesh007\/CountryCodePicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F12B34A0A0D2304A842CB3488531FC54D246106"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mangesh007\/CountryCodePicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2ABAFC23D578C57515E94046A14E42FE9BF366D"
+    }
+  ]
+}
